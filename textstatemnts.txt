@@ -1,0 +1,9 @@
+{"input_info": {"claim": "the president of USA is Donald Trump"}}
+{"input_info": {"claim": "the current president of USA is Joe Biden"}}
+{"input_info": {"claim": "Nnamdi Azikiwe was the first ministry head of state in Nigeria"}}
+{"input_info": {"claim": "Game of Thrones received over 200 Emmy nominations"}}
+{"input_info": {"claim": "FC Barcelona is Spain's most famous soccer team"}}
+{"input_info": {"claim": "The first robot-assisted surgery took place in 1995"}}
+{"input_info": {"claim": "Key actors include Vin Diesel, Paul Walker, and Robert Downey Jr"}}
+{"input_info": {"claim": "Tom Paris is reinstated as lieutenant in Season 6 of Star Trek: Voyager"}}
+{"input_info": {"claim": "Ray Stevens sang I'm a Nut"}}
